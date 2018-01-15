@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrGallery</string>
+    <string name="photos">photos</string>
+    <string name="search">Search</string>
+    <string name="splash">splash</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
